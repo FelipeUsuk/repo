@@ -1,0 +1,14 @@
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\Fiap.PlataformaNet.Avaliacao_44334.exe.config
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\Fiap.PlataformaNet.Avaliacao_44334.exe
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\Fiap.PlataformaNet.Avaliacao_44334.pdb
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.csprojResolveAssemblyReference.cache
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.Form1.resources
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.Properties.Resources.resources
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.csproj.GenerateResource.Cache
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.csproj.CoreCompileInputs.cache
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.exe
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\obj\Debug\Fiap.PlataformaNet.Avaliacao_44334.pdb
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\DBCLINICA.mdf
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\DBCLINICA_log.ldf
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\Dapper.dll
+C:\VisualStudio_Projects\source\repos\Fiap.PlataformaNet.Avaliacao_44334\Fiap.PlataformaNet.Avaliacao_44334\bin\Debug\Dapper.xml
